@@ -1,15 +1,6 @@
-# Title
+# Control Voltage (CV)
 
-Ein kurzer, allgemeiner Einstieg.
+Control Voltage, (short: CV) is used to control parameters in a modular system. CV does not represent audio itself, but change over time. Typical parameters controlled by CV include pitch, cutoff frequency, amplitude, and modulation depth.
 
-## What it does
-Was passiert grundsätzlich?
-
-## Why it matters
-Warum ist das musikalisch relevant?
-
-## Typical usage
-Wie taucht das im Patch-Alltag auf?
-
-## Referenzen
-Gibt es Begriffe auf die verlinkt werden kann??
+## Why CV matters
+CV is what turns individual modules into an interconnected instrument.
