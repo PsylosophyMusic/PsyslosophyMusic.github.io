@@ -1,4 +1,4 @@
-# <Complex Waves>
+# Complex Waves
 
 ## What this is
 A complex wave usually consists of several waves at once or are created by modulating a standard wave.
