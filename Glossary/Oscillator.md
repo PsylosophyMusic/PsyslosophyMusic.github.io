@@ -1,6 +1,6 @@
 # Oscillators (VCO)
 
-An oscillator or VCO (voltage controlled oscillator) is a signal source that generates a repeating waveform over time. They can be divided roughly in two categories: oscillators as sound sources and low frequency oscillators (LFO) as modulation sources. 
+An oscillator or VCO (voltage controlled oscillator) is a signal source that generates a repeating waveform over time. They can be divided roughly in two categories: oscillators in audio rate and low frequency oscillators (LFO)  in sub-audio rate. 
 
 In modular synthesis, oscillators are commonly used as:
 - sound sources
