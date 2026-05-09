@@ -1,6 +1,6 @@
 # Feedback Oscillator
 
-../images/feedback-oscillator.png
+![Feedback Oscillator](../images/feedback-oscillator.png)
 
 The Feedback Oscillator sits somewhere between a traditional sound source and a reactive sound system. It is not a classic VCO in the usual sense, but rather an oscillator that continuously listens to itself.
 
