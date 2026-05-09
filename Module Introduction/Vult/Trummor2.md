@@ -1,4 +1,4 @@
-# <Trummor 2>
+# <Trummor2>
 
 ## What this module does
 - 2–4 Sätze
