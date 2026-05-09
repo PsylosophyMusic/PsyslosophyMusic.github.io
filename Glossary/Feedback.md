@@ -11,4 +11,3 @@ Feedback often reacts non-linearly. Very small changes in level or routing can l
 
 ## Why feedback matters
 Feedback turns static structures into reactive systems. Instead of fixed results, the patch begins to respond to itself.
-``
