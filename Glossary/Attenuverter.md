@@ -1,15 +1,6 @@
-# Title
+# Attenuverter
 
-Ein kurzer, allgemeiner Einstieg.
+An attenuverter allows a signal to be scaled and inverted. With an attenuverter, a signal’s strength can be reduced or its direction reversed, making it easier to work with sensitive parameters.
 
-## What it does
-Was passiert grundsätzlich?
-
-## Why it matters
-Warum ist das musikalisch relevant?
-
-## Typical usage
-Wie taucht das im Patch-Alltag auf?
-
-## Referenzen
-Gibt es Begriffe auf die verlinkt werden kann??
+## Why attenuverters matter
+Many modules respond strongly to small changes. Attenuverters make patches more predictable and, ultimately, more playable.
