@@ -1,36 +1,5 @@
-# <Feedback Oscillator>
+# Feedback Oscillator
 
-## What this module does
-- 2–4 Sätze
-- funktionale Beschreibung
-- keine Marketing-Sprache
+The Feedback Oscillator sits somewhere between a traditional sound source and a reactive sound system. It is not a classic VCO in the usual sense, but rather an oscillator that continuously listens to itself.
 
-## Typical use cases
-- 3–6 Bulletpoints
-- klassische Anwendungen
-- gern allgemein gehalten
-
-## Important controls and inputs
-- kurze Liste
-- nur das Wesentliche
-- keine vollständige Referenz
-
-## One simple patch idea
-- beschreibt das Patch-Prinzip
-- keine Kabelliste
-- keine Parameterwerte
-
-## Limitations and things to keep in mind
-- was das Modul **nicht** gut kann
-- typische Stolperfallen
-
-## Related theory
-- Links auf passende `/theory/` Seiten
-
-## Related patch ideas
-- Links auf `/patch-ideas/`
-
-## Notes
-- optional
-- Platz für spätere Ergänzungen
-``
+The Feedback Oscillator is an oscillator (see: Oscillators) with an internal feedback path (see: Feedback). Instead of producing a fixed, predictable waveform, the module reacts to its own output, making even small adjustments clearly audible.
